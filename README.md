@@ -70,6 +70,16 @@ git clone: https://github.com/samarthag06/Verilog-Winter-Project.git
 
 3. Open the Verilog files along with their respective testbench files in a compatible simulation tool (e.g., ModelSim, Xilinx Vivado) to observe the behavior of the Smart Parking System and Digital Clock. Ensure that you have included the provided testbench codes for thorough testing and verification.
 
+### Load-time on digital-clock
+![Home Page](Load-time.png)
+
+### Alarm functionality
+![Booking Appointment](Alarm.png)
+
+### Smart-parking-system
+![Manage Profile](Smart-parking-system.png)
+
+
 ## Contact
 
 ## Contact
