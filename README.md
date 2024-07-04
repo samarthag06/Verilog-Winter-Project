@@ -82,8 +82,6 @@ git clone: https://github.com/samarthag06/Verilog-Winter-Project.git
 
 ## Contact
 
-## Contact
-
 If you have any questions or suggestions regarding this project, feel free to reach out:
 
 - **Email:** samarthag06@gmail.com
